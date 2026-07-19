@@ -1,0 +1,6 @@
+{
+  "name": "Rizky Smart Community",
+  "description": "Rizky Smart Community is a state-of-the-art 3D futuristic, glassmorphic community hub and ecosystem created by Muhammad Rizky.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
